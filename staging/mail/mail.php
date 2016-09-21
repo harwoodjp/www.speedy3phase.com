@@ -3,7 +3,7 @@ $name = htmlspecialchars($_POST["name"]);
 $email = htmlspecialchars($_POST["email"]);
 $message = htmlspecialchars($_POST["message"]);
 // the message
-$from = "From: $name \n Email: $email \n\n";
+$from = "From: $name \nEmail: $email \n\n";
 $send = $from . $message;
 
 // use wordwrap() if lines are longer than 70 characters
