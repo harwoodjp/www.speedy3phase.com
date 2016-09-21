@@ -14,7 +14,7 @@ strong {
 <body>
 <table width="900" border="0" align="center" cellpadding="0" cellspacing="0">
   <tr>
-    <td align="center"><p><strong><a href="index.php">Home</a> | <a href="http://www.speedy3phase.com/index.php#prices">Prices</a> | <a href="refurbished.php">Refurbished Units</a> |<a href="specs&amp;diagrams.php">Phase Converter Specs &amp; Diagrams</a> | <a href="contactus.php">Contact Us About Phase Converters</a></strong></p>
+    <td align="center"><p><strong><a href="index.php">Home</a> | <a href="http://www.speedy3phase.com/index.php#prices">Prices</a> | <a href="refurbished.php">Refurbished Units</a> |<a href="specs&amp;diagrams.php">Phase Converter Specs &amp; Diagrams</a> | <a href="contactus.php">Contact Us About Phaze Converters</a></strong></p>
     <p>&nbsp;</p></td>
   </tr>
 </table>
