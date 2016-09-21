@@ -1,0 +1,32 @@
+body {
+	font-family: 'Open Sans', sans-serif; 
+}
+
+.flex_column {
+	align-content: space-between;
+	display: flex;
+	flex-direction: column;
+}
+
+.flex_row {
+	display: flex;
+	flex-direction: row;
+}
+
+.log {
+	font-size:20px;
+}
+
+#log_results .date, #log_results_key .date  {
+	width:15%;
+}
+#log_results .task, #log_results_key .task {
+	width:70%;
+}
+#log_results .progress_, #log_results_key .progress_ {
+	width:15%;
+}
+
+#log_results_key {
+	text-decoration: underline;
+}
