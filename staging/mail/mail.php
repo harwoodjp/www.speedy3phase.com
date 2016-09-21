@@ -11,6 +11,6 @@ $send = wordwrap($send,70);
 
 echo $send;
 // send email
-mail("harwoodjp@g.cofc.edu","pls work",$msg);
+mail("harwoodjp@g.cofc.edu","pls work",$send);
 
 
