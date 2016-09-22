@@ -21,7 +21,7 @@
 <p>&nbsp;</p>
 <table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
   <tr>
-    <td><span class="content">Thank you for submitting your inquiry. We'll get back to you as soon as we can. You may also call us at 800-336-1371.</span></td>
+    <td><span class="content">Thank you for submitting your inquiry. We'll get back to you as soon as we can. You may also call us at 843-532-1351.</span></td>
   </tr>
   <tr>
     <td><p class="content">&nbsp;</p>
