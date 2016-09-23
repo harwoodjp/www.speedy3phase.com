@@ -9,8 +9,9 @@ $send = $from . $message;
 // use wordwrap() if lines are longer than 70 characters
 $send = wordwrap($send,70);
 
-echo $send;
 // send email
-mail("speedy3phase@yahoo.com","You have a message!",$send);
+mail("harwoodjp@g.cofc.edu,"You have a message!",$send);
+?>
+<script>window.location = "../../thankyou.php"; </script>
 
 
