@@ -42,15 +42,15 @@
 					<input type="hidden" name="subject" value="Speedy3Phase Quote Request">
 					-->
 					<span class="font"><strong><img src="images/fastquote_name.png" width="52" height="21" alt="Name"></strong>
-						<input type="text" name="name" size="30" value="">
+						<input type="text" name="name" size="30" value="" required>
 						<br>
 					</span>
 					<span class="font"><br>
 						<strong class="font"><img src="images/fastquote_email.png" width="52" height="21" alt="Email"></strong>
-						<input type="text" name="email" size="30" value="">
+						<input type="email" name="email" size="30" value="" required>
 						<br>
 					</span><br>
-					<textarea name="message" cols="41" rows="5"></textarea>
+					<textarea name="message" cols="41" rows="5" required></textarea>
 					<br>
 					<input type="image" name="Submit" src="images/fastquote_button.png">
 				</p>
