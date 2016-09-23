@@ -102,7 +102,9 @@
 
 <p><a name="prices"></a><br>
 
-  <img src="images/products.png" width="977" height="1596" alt="Phase Converter Products"><br>
+  <!--<img src="images/products.png" width="977" height="1596" alt="Phase Converter Products"><br>-->
+  <img src="images/justin/products-sale-2.png"  alt="Phase Converter Products"><br>
+  <img src="images/justin/cnc-rms.png" alt="Phase Converter Products"><br>
 
 <a href="#order"><img src="images/ordernow.png" alt="Order a Phase Converter" width="202" height="131" border="0"></a></p>
 
