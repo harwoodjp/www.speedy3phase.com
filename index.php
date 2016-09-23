@@ -12,9 +12,7 @@
 		<?php include("header.php"); ?>
 		<?php include("main-slider.php"); ?>
 		<?php include("converters.php"); ?>
-		<div id="contact_form">		
-			<?php include("staging/mail/index.html"); ?>
-		</div>		
+		<?php include("fastquote-micrometer.php"); ?>
 		<?php include("products.php"); ?>
 		<?php include("howtoorder.php"); ?>
 		<?php include("testimonials.php"); ?>

@@ -35,24 +35,26 @@
 		<td><table width="387" height="350" border="0" align="center" cellpadding="0" cellspacing="0" background="images/fastquote-micrometer_06.jpg">
 		  <tr>
 		    <td align="center" valign="bottom">
-            <form action="http://www.speedy3phase.com/cgi-sys/formmail.pl" method="post" name="hgmailer" class="center">
-  <p>
-    <input type="hidden" name="recipient" value="connect@speedy3phase.com">
-  <input type="hidden" name="subject" value="Speedy3Phase Quote Request">
-  <span class="font"><strong><img src="images/fastquote_name.png" width="52" height="21" alt="Name"></strong>
-  <input type="text" name="name" size="30" value="">
-  <br>
-  </span><span class="font"><br>
-    <strong class="font"><img src="images/fastquote_email.png" width="52" height="21" alt="Email"></strong>
-    <input type="text" name="email" size="30" value="">
-    <br>
-    </span><br>
-    <textarea name="comment" cols="41" rows="5"></textarea>
-    <br>
-    <input type="image" name="Submit" src="images/fastquote_button.png" onClick="hgsubmit();">
-    <input type="hidden" name="redirect" value="http://www.speedy3phase.com/thankyou.php">
-  </p>
-</form>
+			<form action="staging/mail/mail.php" method="post" name="hgmailer" class="center">
+				<p>
+					<!--
+					<input type="hidden" name="recipient" value="connect@speedy3phase.com">
+					<input type="hidden" name="subject" value="Speedy3Phase Quote Request">
+					-->
+					<span class="font"><strong><img src="images/fastquote_name.png" width="52" height="21" alt="Name"></strong>
+						<input type="text" name="name" size="30" value="">
+						<br>
+					</span>
+					<span class="font"><br>
+						<strong class="font"><img src="images/fastquote_email.png" width="52" height="21" alt="Email"></strong>
+						<input type="text" name="email" size="30" value="">
+						<br>
+					</span><br>
+					<textarea name="message" cols="41" rows="5"></textarea>
+					<br>
+					<input type="image" name="Submit" src="images/fastquote_button.png">
+				</p>
+			</form>
             </td>
 	      </tr>
 	    </table></td>
