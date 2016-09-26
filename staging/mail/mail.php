@@ -10,7 +10,7 @@ $send = $from . $message;
 $send = wordwrap($send,70);
 
 // send email
-mail("speedy3phase@yahoo.com","You have a message!",$send);
+mail("harwoodjp@g.cofc.edu","You have a message!",$send);
 ?>
 <script>window.location = "../../thankyou.php"; </script>
 
