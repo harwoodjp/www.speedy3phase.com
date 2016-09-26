@@ -9,7 +9,7 @@
 <?php include("header.php"); ?>
 <?php include("main-contactus.php"); ?>
 <?php include("madeinusa.php"); ?>
-<?php include("email.php"); ?>
+<?php include("fastquote-micrometer.php"); ?>
 <?php include("footer.php"); ?>
 </body>
 </html>

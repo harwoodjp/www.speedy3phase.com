@@ -46,7 +46,7 @@
       </strong></td>
 		<td align="left" valign="top" class="content"><strong> Address:</strong><br>
 		  Speedy 3 Phase Electric<br>
-		  836 Kincade Drive<br>
+		<!--  836 Kincade Drive<br> -->
 	    Mount Pleasant, SC  29464</td>
 		<td>
 			<img src="images/main-contactus_14.jpg" width="28" height="108" alt=""></td>
