@@ -1,3 +1,22 @@
+/* GENERAL */
+body {
+	background-image: url("images/justin/diamond_plate_bg.jpg");
+}
+#header_phone h1 {
+	color:#ff3300;	
+	font-family: Verdana, Geneva, sans-serif;	
+	margin:0px;	
+	text-align:right;
+}
+
+#header_table {
+	color:white !important;
+}
+#we_manuf {
+	color:black !important;
+}
+
+/* GENERAL */
 /* CONTACT FORM */
 #contact_form {
 	background-color:#3399ff;

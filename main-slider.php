@@ -38,7 +38,7 @@ body {
 .headings {
 	font-family: Verdana, Geneva, sans-serif;
 	font-weight: bold;
-	color: #585858;
+	color: white;
 	font-size: 18px;
 }
 </style>
