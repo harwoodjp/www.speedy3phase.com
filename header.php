@@ -8,6 +8,7 @@
 
 <style type="text/css">
 
+
 .headertext {
 
 	font-family: Verdana, Geneva, sans-serif;
@@ -19,6 +20,11 @@
 	font-weight: bold;
 
 }
+#header_phone {
+	background-color:white;
+	height:70px;
+	width:384px; 	
+}
 #header_phone h1 {
 	color:#ff3300;	
 	font-family: Verdana, Geneva, sans-serif;	
@@ -26,10 +32,9 @@
 	text-align:right;
 }
 #header_phone span {
-	color:white;
+	color:#ff3300;
 	font-family:Arial;
 	font-size:13px;
-	margin:0px;
 	float:right;	
 }
 
@@ -111,7 +116,7 @@
 		</td>
 
 		<td rowspan="3">
-			<div id="header_phone" style="width:364px; height:59px; ">
+			<div id="header_phone">
 				<h1>
 					843-532-1351
 				</h1>
