@@ -19,7 +19,7 @@
 		<?php include("products.php"); ?>
 		<?php include("howtoorder.php"); ?>
 		<?php include("testimonials.php"); ?>
-		<?php include("footer.php"); ?> test
+		<?php include("footer.php"); ?>
 	</div>	
 </body>
 </html>
