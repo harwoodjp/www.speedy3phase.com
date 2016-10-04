@@ -11,11 +11,8 @@
 .headertext {
 
 	font-family: Verdana, Geneva, sans-serif;
-
-	color: white;
-
+	color: #333; /*white*/
 	font-size: 14px;
-
 	font-weight: bold;
 
 }
@@ -26,7 +23,7 @@
 	text-align:right;
 }
 #header_phone span {
-	color:white;
+	color:black; /*white*/
 	font-family:Arial;
 	font-size:13px;
 	margin:0px;
@@ -97,7 +94,7 @@
 
 <!-- Save for Web Slices (header.psd) -->
 
-<table id="header_table" width="977" height="157" border="0" align="center" cellpadding="0" cellspacing="0" id="Table_01">
+<table width="977" height="157" border="0" align="center" cellpadding="0" cellspacing="0" id="Table_01">
 
   <tr>
 
@@ -105,13 +102,13 @@
 
 		<img src="images/header_01.png" width="322" height="37" alt="Rotomasters Phase Converters Logo"></td>
 
-		<td style="width:291px">
+		<td>
 
-			<!--<img src="images/header_02.png" width="291" height="37" alt="">-->
+			<img src="images/header_02.png" width="291" height="37" alt="">
 		</td>
 
 		<td rowspan="3">
-			<div id="header_phone" style="width:364px; height:59px; ">
+			<div id="header_phone" style="width:364px; height:59px; background-color:white"">
 				<h1>
 					843-532-1351
 				</h1>

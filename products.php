@@ -36,7 +36,7 @@
 
 	font-family: "Sniglet", Verdana, Geneva, sans-serif;
 
-	/*color: #666;*/
+	color: #666;
 
 	width: 100%;
 
@@ -52,8 +52,8 @@
 
 	font-family: "Sniglet", Verdana, Geneva, sans-serif;
 
-	/*color: #666;*/
-	color:white;
+	color: #666;
+	/*color:white;*/
 
 	width: 100%;
 
@@ -87,7 +87,7 @@
 
 <p><!-- Save for Web Slices (products.psd) -->  </p>
 
-<table id="we_manuf" width="938" border="0" align="center" cellpadding="0" cellspacing="0">
+<table width="938" border="0" align="center" cellpadding="0" cellspacing="0">
 
   <tr>
 
@@ -117,7 +117,7 @@
 
 </p>
 
-<h1 style="width: 100%; color:white;
+<h1 style="width: 100%;
 
 	background-color: rgba(0, 0, 0, 0.1);
 

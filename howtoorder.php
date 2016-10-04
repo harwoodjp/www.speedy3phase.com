@@ -8,7 +8,7 @@
 	text-align: center;
 }
 .shipmentblack {
-	color: white;
+	color: /*white*/ #000;
 }
 </style>
 </head>

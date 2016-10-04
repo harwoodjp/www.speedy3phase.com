@@ -6,7 +6,8 @@
 .heading {
 	font-family: Verdana, Geneva, sans-serif;
 	font-weight: bold;
-	color:white;
+	/*color:white;*/
+       color: #585858;
 }
 .content {
 	font-family: Verdana, Geneva, sans-serif;

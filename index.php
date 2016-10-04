@@ -3,8 +3,8 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<title>Rotomasters</title>
-	<link rel="stylesheet" href="assets/bootstrap/dist/css/bootstrap.min.css">
-	<link rel="stylesheet" href="style-master.css">	
+	<!--<link rel="stylesheet" href="assets/bootstrap/dist/css/bootstrap.min.css">
+	<link rel="stylesheet" href="style-master.css">	-->
 	<style>
 	</style>
 
