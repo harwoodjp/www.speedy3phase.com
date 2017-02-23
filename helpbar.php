@@ -20,7 +20,7 @@
 <body>
 <table width="938" border="0" align="center" cellpadding="0" cellspacing="0" class="center">
   <tr>
-    <td height="57" bgcolor="#e9e9e9" class="content">We're able to customize a phase converter to fit any size project. If you need help or just want a quote,  fill out the email form below or call us at  843-532-1351 for  help with phase converters.</td>
+    <td height="57" bgcolor="#e9e9e9" class="content">We're able to customize a phase converter to fit any size project. If you need help or just want a quote,  fill out the email form below or call us at  888-664-4820 for  help with phase converters.</td>
   </tr>
 </table>
 </body>

@@ -51,7 +51,7 @@
 		<td>
 			<img src="images/main-contactus_14.jpg" width="28" height="108" alt=""></td>
 		<td colspan="2" align="left" valign="top" class="content"><p><strong>Phone:</strong><br>
-		  843-532-1351<br>
+		  888-664-4820<br>
 		  <br>
 		</p></td>
 	</tr>

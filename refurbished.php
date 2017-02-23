@@ -62,7 +62,7 @@
   </tr>
 </table>
 <p class="warranty">Our refurbished units carry a 2 year Smart Warranty.</p>
-<p class="toppic">Y<span class="toppic">ou can always get our latest inventory numbers by calling us at 843-532-1351.</span></p>
+<p class="toppic">Y<span class="toppic">ou can always get our latest inventory numbers by calling us at 888-664-4820.</span></p>
 <table width="780" height="971" border="0" align="center" cellpadding="0" cellspacing="0" id="Table_01">
 	<tr>
 		<td colspan="15">

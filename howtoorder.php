@@ -17,7 +17,7 @@
 </p>
 <table width="977" border="0" align="center" cellpadding="0" cellspacing="0">
   <tr>
-    <td><p><a name="order"></a><img src="images/howtoorder2.png" width="977" height="368" alt="Order your three phase converter"></p></td>
+    <td><p><a name="order"></a><img src="images/howtoorder3.png" width="977" height="368" alt="Order your three phase converter"></p></td>
   </tr>
   <tr>
     <td class="shipment"><p class="shipmentblack">Special orders may take 4-8 weeks for delivery. Please call for more details.</p>
