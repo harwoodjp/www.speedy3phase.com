@@ -93,8 +93,10 @@
 
     <td width="10" height="58" align="center" valign="middle" bgcolor="#E9E9E9" class="content">&nbsp;</td>
 
-    <td width="835" align="center" valign="middle" bgcolor="#E9E9E9" class="content">
-		Get a Fast Quote today. Call <span style="color:red">888-664-4820 ext 101</span> (toll-free) for ordering or technical assistance from a phase converter expert.
+    <td width="835" height="" align="center" valign="middle" bgcolor="#E9E9E9" class="content" style="font-size:1.5em; color:black">
+		
+		Get a Fast Quote today call toll-free <span style="color:blue">888-664-4820 ext 101</span>
+		for ordering or technical assistance from a phase converter expert
 
     <!--We manufacture machines from 3 to 500 HP and can provide a rotary phase converter to fit any budget. Want help deciding what you need for your project? Feel free to call us at 888-664-4820 or email us and one of our friendly technicians will be glad to help you out.-->
     	
